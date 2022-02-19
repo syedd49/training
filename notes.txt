@@ -1,0 +1,18 @@
+AWS Topics:-
+
+VPC
+Subnets
+Route Table
+Security Groups
+Internet Gateway
+Ec2 
+DNS
+IAM
+NAT Gateway
+Lambda
+Transit GW
+S3
+Load Balancer
+EKS
+ECR
+
